@@ -1,0 +1,12 @@
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\bin\Debug\DataMover.exe.config
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\bin\Debug\DataMover.exe
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\bin\Debug\DataMover.pdb
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\obj\Debug\DataMover.csproj.AssemblyReference.cache
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\obj\Debug\DataMover.Form1.resources
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\obj\Debug\DataMover.Properties.Resources.resources
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\obj\Debug\DataMover.csproj.GenerateResource.cache
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\obj\Debug\DataMover.csproj.CoreCompileInputs.cache
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\obj\Debug\DataMover.exe
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\obj\Debug\DataMover.pdb
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\obj\Debug\DataMover.Form2.resources
+C:\Programming Projects\VisualStudioProject1\DataMover\DataMover\obj\Debug\DataMover.Form3.resources
